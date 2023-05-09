@@ -21,6 +21,16 @@
 
 **Reported and indexed by:**
 
+- CVE-2023-31799
+- CVE-2023-31800
+- CVE-2023-31801
+- CVE-2023-31802
+- CVE-2023-31803
+- CVE-2023-31804
+- CVE-2023-31805
+- CVE-2023-31806
+- CVE-2023-31807
+
 [Chamilo Issue "#104" - 2023-04-11 - Moderate impact, High risk - XSS in personal profile ](https://support.chamilo.org/projects/chamilo-18/wiki/Security_issues#Issue-104-2023-04-11-Moderate-impact-High-risk-XSS-in-personal-profile)
 
 [Chamilo Issue "#103" - 2023-04-11 - Low impact, Moderate risk - XSS in "My progress" tab](https://support.chamilo.org/projects/chamilo-18/wiki/Security_issues#Issue-103-2023-04-11-Low-impact-Moderate-risk-XSS-in-My-progress-tab)
