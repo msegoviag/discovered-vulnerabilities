@@ -1,5 +1,5 @@
 # Vulnerabilities discovered and reported
-## ChatGPT (OpenAI) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/2048px-ChatGPT_logo.svg.png" alt="Texto alternativo" width="25" height="25" />
+## ChatGPT (OpenAI) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/2048px-ChatGPT_logo.svg.png" alt="ChatGPT" width="25" height="25" />
 
 ###### A Cross-Site Scripting (XSS) vulnerability via Prompt Injection has been discovered in the OpenAI chat platform. An attacker can exploit this vulnerability to execute JavaScript code in a user's browser by causing the chatbot to interpret a Markdown syntax, resulting in the injection of a malicious hyperlink that redirects to document.cookie and allows the attacker to view the cookie in an alert.
 
@@ -11,7 +11,22 @@
 
 [BugCrowd](https://bugcrowd.com/openai/hall-of-fame): Presence in the Bug Bounty Hall of Fame programme organised by OpenAI for discovering 4 vulnerabilities in ChatGPT and *.openai.com
 
-## Chamilo LMS <img src="https://play-lh.googleusercontent.com/Yk_tVHx3pqtUpwzh4dCZhqJ9bt1HYbxTz99mDxjtwJ0P50Z7A9G-BTjv_zNK1ExnKqGA" alt="Texto alternativo" width="45" height="45" />
+## Flask-AppBuilder <img src="https://play-lh.googleusercontent.com/keVVojxW-b11NTKWZg8GulfLlhqBpATvqGFViblYsI0fxW_8a0sIPgyRlB94Gu1AQMY" alt="Flask-AppBuilder" width="40" height="40" />
+
+###### An authenticated malicious actor with Admin privileges, could by adding a special character on the add, edit User forms trigger a database error, this error is surfaced back to this actor on the UI. On certain database engines this error can include the entire user row including the pbkdf2:sha256 hashed password.
+
+https://github.com/dpgaspar/Flask-AppBuilder/security/advisories/GHSA-jhpr-j7cq-3jp3
+
+#### CVE-2023-34110
+
+
+https://nvd.nist.gov/vuln/detail/CVE-2023-34110
+
+https://www.incibe.es/incibe-cert/alerta-temprana/vulnerabilidades/cve-2023-34110
+
+https://vuldb.com/es/?id.232202
+
+## Chamilo LMS <img src="https://play-lh.googleusercontent.com/Yk_tVHx3pqtUpwzh4dCZhqJ9bt1HYbxTz99mDxjtwJ0P50Z7A9G-BTjv_zNK1ExnKqGA" alt="Chamilo LMS" width="45" height="45" />
 
 ###### Chamilo 1.11.x allows a user to add XSS to his/her own profile on the social network. If the "skype" and "linkedin_url" fields are enabled (they are by default) or if other text-type fields are added, these can be used by a user to target other users looking at his/her profile on the social network. This requires befriending the attacker first or viewing the profile as an administrator (so it could be used to XSS the admin). It requires a normal user account, so not available to anonymous users.
 
