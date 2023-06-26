@@ -9,7 +9,7 @@
 
 [Vulners](https://vulners.com/packetstorm/PACKETSTORM:171665)
 
-[BugCrowd](https://bugcrowd.com/openai/hall-of-fame): Presence in the Bug Bounty Hall of Fame programme organised by OpenAI for discovering 4 vulnerabilities in ChatGPT and *.openai.com
+[BugCrowd](https://bugcrowd.com/openai/hall-of-fame): Presence in the Bug Bounty Hall of Fame programme organised by OpenAI for discovering 6 vulnerabilities in ChatGPT and *.openai.com
 
 ## Flask-AppBuilder <img src="https://play-lh.googleusercontent.com/keVVojxW-b11NTKWZg8GulfLlhqBpATvqGFViblYsI0fxW_8a0sIPgyRlB94Gu1AQMY" alt="Flask-AppBuilder" width="40" height="40" />
 
