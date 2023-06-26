@@ -11,6 +11,14 @@
 
 [BugCrowd](https://bugcrowd.com/openai/hall-of-fame): Presence in the Bug Bounty Hall of Fame programme organised by OpenAI for discovering 6 vulnerabilities in ChatGPT and *.openai.com
 
+## NASA <img src="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" alt="NASA" width="40" height="40" />
+
+[BugCrowd](https://bugcrowd.com/nasa-vdp/hall-of-fame): Presence in the Bug Bounty Hall of Fame programme organised by National Aeronautics and Space Administration (NASA) - Vulnerability Disclosure Program for discovering 7 vulnerabilities in NASA and *.nasa.gov.
+
+## Department of the Treasury <img src="https://logos.bugcrowdusercontent.com/logos/0fb2/c342/d858380d/869739581b872a8faa1aac2ea8c3ecf3_download__6_.png" alt="Departament Of The Treasury" width="40" height="40" />
+
+[BugCrowd](https://bugcrowd.com/treasury-vdp/hall-of-fame): Presence in the Bug Bounty Hall of Fame programme organised by Department of the Treasury: Vulnerability Disclosure Program for discovering 4 vulnerabilities.
+
 ## Flask-AppBuilder <img src="https://play-lh.googleusercontent.com/keVVojxW-b11NTKWZg8GulfLlhqBpATvqGFViblYsI0fxW_8a0sIPgyRlB94Gu1AQMY" alt="Flask-AppBuilder" width="40" height="40" />
 
 ###### An authenticated malicious actor with Admin privileges, could by adding a special character on the add, edit User forms trigger a database error, this error is surfaced back to this actor on the UI. On certain database engines this error can include the entire user row including the pbkdf2:sha256 hashed password.
@@ -18,7 +26,6 @@
 https://github.com/dpgaspar/Flask-AppBuilder/security/advisories/GHSA-jhpr-j7cq-3jp3
 
 #### CVE-2023-34110
-
 
 https://nvd.nist.gov/vuln/detail/CVE-2023-34110
 
