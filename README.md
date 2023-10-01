@@ -11,7 +11,7 @@
 
 [BugCrowd](https://bugcrowd.com/openai/hall-of-fame): Presence in the Bug Bounty Hall of Fame programme organised by OpenAI for discovering 6 vulnerabilities in ChatGPT and *.openai.com
 
-## NASA <img src="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" alt="NASA" width="40" height="40" />
+## NASA <img src="https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg" alt="NASA" width="40" height="40" />
 
 [BugCrowd](https://bugcrowd.com/nasa-vdp/hall-of-fame): Presence in the Bug Bounty Hall of Fame programme organised by National Aeronautics and Space Administration (NASA) - Vulnerability Disclosure Program for discovering 7 vulnerabilities in NASA and *.nasa.gov.
 
